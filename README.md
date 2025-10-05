@@ -1,2 +1,2 @@
 # Farm-amcrBot
-Bot para farmar amoracoin
+Bot para farmar amoracoin :D
