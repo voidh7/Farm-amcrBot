@@ -16,7 +16,7 @@ pip install -e .
 
 rode o bot
 
-'''bash
+```bash
 python main.py
 ```
 
